@@ -21,6 +21,8 @@ Este proyecto es un **simulador interactivo del sistema solar**, que cuenta con 
 - Panel lateral con información científica (extraída de `planetas.json`).
 - Control de órbitas y rotaciones vía **dat.GUI**.
 
+**Vista principal del sistema solar**  
+   ![Vista principal](vista_principal.png)
 ---
 
 ## Nave espacial (modo exclusivo)
@@ -41,13 +43,19 @@ La nave espacial no es solo una cámara o vista: es un **modo de control interac
 | Shift        | Bajar                    |
 | Escape       | Salir del modo nave y volver a cámara libre |
 
-> Nota: Durante el modo nave, **las órbitas y rotaciones de los planetas pueden pausarse automáticamente** para centrar la experiencia de vuelo.
+**Vista de la nave espacial en vuelo**  
+   ![Vista nave](vista_nave.png)
+
+> Nota: Durante el modo nave, **las órbitas y rotaciones de los planetas se pausan automáticamente** para centrar la experiencia de vuelo.
 
 ---
 
 ## Vistas individuales
 - Cada planeta y el Sol tienen su vista exclusiva que se puede activar desde el índice.  
 - Al seleccionarlas, la cámara se mueve suavemente hacia el objeto y se muestra un **panel con información**.
+
+**Vista enfocada en un planeta**  
+   ![Vista planeta](vista_planeta.png)
 
 ---
 
@@ -103,14 +111,3 @@ La nave espacial no es solo una cámara o vista: es un **modo de control interac
   Contiene nombre, descripción, día, año, masa, gravedad, temperatura y satélites.
 
 ---
-
-## Capturas de pantalla (ejemplos)
-
-1. **Vista principal del sistema solar**  
-   ![Vista principal](vista_principal.png)
-
-2. **Vista enfocada en un planeta**  
-   ![Vista planeta](vista_planeta.png)
-
-3. **Vista de la nave espacial en vuelo**  
-   ![Vista nave](vista_nave.png)
