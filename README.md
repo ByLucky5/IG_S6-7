@@ -2,7 +2,7 @@
 
 Este proyecto es un **simulador interactivo del sistema solar**, que cuenta con todos los planetas del sistema solar, algunos satélites, anillos y objetos especiales como la Estación Espacial Internacional y una nave espacial controlable. Incluye información detallada de los planetas y un menú con control de órbitas y rotaciones.
 
-link para visualizar (https://codesandbox.io/p/sandbox/ig2526-s6-forked-yvr7qd)
+[Video de demo]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/gft5sndfVmM))
 ---
 
 ## Características principales
