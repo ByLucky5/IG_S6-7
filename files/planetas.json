@@ -1,0 +1,102 @@
+[
+  {
+  "nombre": "Sol", 
+  "descripcion": "La estrella del sistema solar",
+  "dia": "N/A",
+  "anio": "N/A",
+  "masa": "1.989 × 10^30 kg",
+  "gravedad": "274 m/s²",
+  "temperatura": "5505 °C",
+  "satélites": 0
+  },
+  {
+      "nombre": "Mercurio",
+      "descripcion": "Mercurio es el planeta más cercano al Sol. Su superficie está llena de cráteres y no tiene atmósfera significativa.",
+      "dia": "58.6 días terrestres",
+      "anio": "88 días terrestres",
+      "masa": "3.30 × 10^23 kg",
+      "gravedad": "3.7 m/s²",
+      "temperatura": "-173 a 427 °C",
+      "satélites": 0
+    },
+    {
+      "nombre": "Venus",
+      "descripcion": "Venus tiene una densa atmósfera de CO2 y nubes de ácido sulfúrico. Es el planeta más caliente del Sistema Solar.",
+      "dia": "243 días terrestres",
+      "anio": "225 días terrestres",
+      "masa": "4.87 × 10^24 kg",
+      "gravedad": "8.87 m/s²",
+      "temperatura": "462 °C",
+      "satélites": 0
+    },
+    {
+      "nombre": "Tierra",
+      "descripcion": "Nuestro planeta, con agua líquida y vida conocida. Posee un campo magnético que protege la vida de la radiación solar.",
+      "dia": "24 horas",
+      "anio": "365 días",
+      "masa": "5.97 × 10^24 kg",
+      "gravedad": "9.81 m/s²",
+      "temperatura": "-88 a 58 °C promedio",
+      "satélites": 1
+    },
+    {
+      "nombre": "Marte",
+      "descripcion": "Conocido como el planeta rojo por su óxido de hierro en la superficie. Tiene el volcán más grande del Sistema Solar.",
+      "dia": "24.6 horas",
+      "anio": "687 días terrestres",
+      "masa": "6.42 × 10^23 kg",
+      "gravedad": "3.71 m/s²",
+      "temperatura": "-87 a -5 °C",
+      "satélites": 2
+    },
+    {
+      "nombre": "Júpiter",
+      "descripcion": "El gigante gaseoso más grande del Sistema Solar. Posee una gran mancha roja y un potente campo magnético.",
+      "dia": "9.9 horas",
+      "anio": "11.86 años terrestres",
+      "masa": "1.90 × 10^27 kg",
+      "gravedad": "24.79 m/s²",
+      "temperatura": "-145 °C",
+      "satélites": 95
+    },
+    {
+      "nombre": "Saturno",
+      "descripcion": "Famoso por sus impresionantes anillos hechos de hielo y roca. Es un gigante gaseoso como Júpiter.",
+      "dia": "10.7 horas",
+      "anio": "29.46 años terrestres",
+      "masa": "5.68 × 10^26 kg",
+      "gravedad": "10.44 m/s²",
+      "temperatura": "-178 °C",
+      "satélites": 83
+    },
+    {
+      "nombre": "Urano",
+      "descripcion": "Gigante helado con un eje de rotación muy inclinado. Sus nubes contienen metano, que le da su color azul verdoso.",
+      "dia": "17.2 horas",
+      "anio": "84 años terrestres",
+      "masa": "8.68 × 10^25 kg",
+      "gravedad": "8.69 m/s²",
+      "temperatura": "-197 °C",
+      "satélites": 27
+    },
+    {
+      "nombre": "Neptuno",
+      "descripcion": "Similar a Urano, es un gigante helado y azul intenso. Tiene los vientos más rápidos del Sistema Solar.",
+      "dia": "16.1 horas",
+      "anio": "164.8 años terrestres",
+      "masa": "1.02 × 10^26 kg",
+      "gravedad": "11.15 m/s²",
+      "temperatura": "-201 °C",
+      "satélites": 14
+    },
+    {
+      "nombre": "Plutón",
+      "descripcion": "Planeta enano del cinturón de Kuiper. Tiene una superficie helada y una órbita muy elíptica.",
+      "dia": "153.3 horas",
+      "anio": "248 años terrestres",
+      "masa": "1.31 × 10^22 kg",
+      "gravedad": "0.62 m/s²",
+      "temperatura": "-229 a -223 °C",
+      "satélites": 5
+    }
+  ]  
