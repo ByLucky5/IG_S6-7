@@ -6,7 +6,11 @@ Este proyecto es un **simulador interactivo del sistema solar**, que cuenta con 
 
 # Video de demostración
 
-[![Ver demo del Sistema Solar](https://img.youtube.com/vi/gft5sndfVmM/0.jpg)](https://www.youtube.com/watch?v=gft5sndfVmM)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=gft5sndfVmM" target="_blank">
+    <img src="https://img.youtube.com/vi/gft5sndfVmM/0.jpg" alt="Ver demo del Sistema Solar" width="480">
+  </a>
+</p>
 
 ---
 
@@ -27,8 +31,9 @@ Este proyecto es un **simulador interactivo del sistema solar**, que cuenta con 
 - Panel lateral con información científica (extraída de `planetas.json`).
 - Control de órbitas y rotaciones vía **dat.GUI**.
 
-**Vista principal del sistema solar**  
-   ![Vista principal](vista_principal.png)
+<p align="center">
+  <img src="vista_principal.png" alt="Vista principal" width="600">
+</p>
 ---
 
 ## Nave espacial (modo exclusivo)
@@ -49,8 +54,9 @@ La nave espacial no es solo una cámara o vista: es un **modo de control interac
 | Shift        | Bajar                    |
 | Escape       | Salir del modo nave y volver a cámara libre |
 
-**Vista de la nave espacial en vuelo**  
-   ![Vista nave](vista_nave.png)
+<p align="center">
+  <img src="vista_nave.png" alt="Vista nave" width="600">
+</p>
 
 > Nota: Durante el modo nave, **las órbitas y rotaciones de los planetas se pausan automáticamente** para centrar la experiencia de vuelo.
 
@@ -60,8 +66,9 @@ La nave espacial no es solo una cámara o vista: es un **modo de control interac
 - Cada planeta y el Sol tienen su vista exclusiva que se puede activar desde el índice.  
 - Al seleccionarlas, la cámara se mueve suavemente hacia el objeto y se muestra un **panel con información**.
 
-**Vista enfocada en un planeta**  
-   ![Vista planeta](vista_planeta.png)
+<p align="center">
+  <img src="vista_planeta.png" alt="Vista planeta" width="600">
+</p>
 
 ---
 
