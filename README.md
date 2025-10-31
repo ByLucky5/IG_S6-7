@@ -24,12 +24,14 @@ Este proyecto es un **simulador interactivo del sistema solar**, que cuenta con 
 
 ### Objetos especiales
 - **Estación Espacial Internacional (ISS)** orbitando la Tierra.
+- Se carga desde un modelo GLTF (iss.glb) utilizando GLTFLoader. Se escala y posiciona correctamente, y luego se agrega a la escena como hijo de la Tierra para que orbite automáticamente alrededor de nuestro planeta.
 - **Nave espacial controlable** (modo exclusivo, no es solo una vista).
+- Se carga desde un modelo OBJ acompañado de un archivo MTL (spaceship_flying.obj + spaceship_flying.mtl) usando MTLLoader y OBJLoader.
 
 ### Interacción
 - Vistas individuales de planetas y del Sol mediante índice.
 - Panel lateral con información científica (extraída de `planetas.json`).
-- Control de órbitas y rotaciones vía **dat.GUI**.
+- Control de órbitas y rotaciones con la librería **dat.GUI**.
 
 <p align="center">
   <img src="vista_principal.png" alt="Vista principal" width="600">
