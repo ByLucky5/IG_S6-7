@@ -102,8 +102,8 @@ La nave espacial no es solo una cámara o vista: es un **modo de control interac
 ## Archivos de recursos
 
 **Modelos 3D**
-- Nave espacial: [`spaceship_flying.obj`](https://free3d.com/3d-model/kameri-explorer-57154.html) + `.mtl`
-- Estación Espacial Internacional: [`iss.glb`](https://science.nasa.gov/3d-resources/international-space-station-iss-b/)
+- Nave espacial: `spaceship_flying.obj` + `.mtl` ([Free3D](https://free3d.com/3d-model/kameri-explorer-57154.html))
+- Estación Espacial Internacional: `iss.glb` ([NASA](https://science.nasa.gov/3d-resources/international-space-station-iss-b/))
 
 **Texturas**
 - Fuente: [Planet Pixel Emporium](https://planetpixelemporium.com/), [Solar System Scope](https://www.solarsystemscope.com/)
